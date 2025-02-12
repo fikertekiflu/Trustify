@@ -26,7 +26,7 @@
 ## **🔧 Installation**
 1️⃣ **Clone the repo**  
 ```bash
-git clone https://github.com/fiketekiflu/trustify-Escrow Service for E-commerce.git
+git clone https://github.com/fiketekiflu/trustify_Escrow.git
 cd trustify-frontend
 ```
 2️⃣ **Install dependencies**  
